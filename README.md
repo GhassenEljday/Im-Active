@@ -19,6 +19,8 @@ If you like this app, support me:
 
 ## [![Support Us on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5CGNZQ)
 
+---
+
 ## 💡 Features
 
 - Simulates random mouse movement
