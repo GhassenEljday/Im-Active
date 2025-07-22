@@ -17,9 +17,7 @@ No installation needed. Just run the `.exe` and you're good to go.
 
 If you like this app, support me:
 
-[Buy Me a Coffee ☕](https://ko-fi.com/eljday)
-
----
+## [![Support Us on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5CGNZQ)
 
 ## 💡 Features
 
