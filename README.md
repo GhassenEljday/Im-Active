@@ -29,14 +29,6 @@ If you like this app, support me:
 
 [Buy Me a Coffee ☕](https://ko-fi.com/eljday)
 
----
-
-## 🔒 No source code?
-
-For now, I’m only releasing the app, not the code. This keeps it clean and user-friendly for casual users. Open-source version may come later!
-
----
-
 ## 🖥️ OS Compatibility
 
 - ✅ Windows (tested)
