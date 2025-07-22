@@ -13,6 +13,14 @@ No installation needed. Just run the `.exe` and you're good to go.
 
 ---
 
+## ☕ Buy Me a Coffee
+
+If you like this app, support me:
+
+[Buy Me a Coffee ☕](https://ko-fi.com/eljday)
+
+---
+
 ## 💡 Features
 
 - Simulates random mouse movement
@@ -22,12 +30,6 @@ No installation needed. Just run the `.exe` and you're good to go.
 - Safe and offline
 
 ---
-
-## ☕ Buy Me a Coffee
-
-If you like this app, support me:
-
-[Buy Me a Coffee ☕](https://ko-fi.com/eljday)
 
 ## 🖥️ OS Compatibility
 
