@@ -1,7 +1,7 @@
 # 🧍‍♂️ Im-Active – Fake Activity Tool
 
 **Keep your PC awake by simulating human activity.**  
-Whether you're avoiding auto-lock, staying online, or fooling Teams—this is for you.
+Whether you're avoiding auto-lock, staying online, or fooling Teams this is for you.
 
 ---
 
